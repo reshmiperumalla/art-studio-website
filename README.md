@@ -14,7 +14,7 @@ A small full-stack site for an art studio. Customers can buy paintings, book a w
 
 ```
 git clone <your-repo-url>
-cd art-studio
+cd art-studio-website
 ```
 
 ## 2. Backend setup
